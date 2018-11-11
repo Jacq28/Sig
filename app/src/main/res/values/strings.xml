@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ParqueoSCz</string>
+    <string name="google_maps_API_key">AIzaSyCcbZgrBHFcuWjs6shpWquBjUNIk_cMQpI</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_infowindow_layout">infowindow_layout</string>
+    <string name="infowindows_boton">Ocupar</string>
+    <string name="infowindows_botons">¿Cómo llegar?</string>
+
+    <string name="permisos_user">gmail</string>
+    <string name="permisos_pàss">password</string>
+    <string name="permisos_entrar">Iniciar sesion</string>
+    <string name="permisos_registrar">Registrarse</string>
+
+    <string name="menu_parqueo">Parqueos</string>
+    <string name="menu_parquimetro">Parquimetros</string>
+
+    <string name="mapa_search">Ingresar direccion, ciudad o codigo postal</string>
+    <string name="mapa_ready">El mapa esta listo!</string>
+
+    <string name="ingreso_">PIN: </string>
+    <string name="crear_ingreso_datos">Registro de datos</string>
+    <string name="crear_ingreso_nick">Nick de Pokemon Go</string>
+    <string name="crear_ingreso_pin">Ingrese un pin</string>
+    <string name="crear_ingreso_nombre">Escriba su nick de juego aqui</string>
+    <string name="crear_ingreso_equipo">Equipo</string>
+    <string name="crear_ingreso_clicequipo">Haga clic aqui</string>
+    <string name="crear_ingreso_guardar">Guardar datos</string>
+    <string name="crear_ingreso_reglas">Reglas y terminos de uso:</string>
+    <string name="crear_ingreso_leerreglar">Clic para leer las reglas</string>
+    <string name="crear_ingreso_email">Email</string>
+    <string name="crear_ingreso_escribiremail">Ingrese su email</string>
+
+    <string name="registro_informacion">Registro de usuario</string>
+    <string name="registro_nombre">Nombres</string>
+    <string name="registro_apellido">Apellidos</string>
+    <string name="registro_ci">Carnet de identidad</string>
+    <string name="registro_fecha_nac">Fecha de nacimiento:</string>
+    <string name="registro_sexo">Genero:</string>
+    <string name="registro_email">E-mail</string>
+    <string name="registro_pass">Contraseña</string>
+    <string name="registro_dir">Direccion de vivienda</string>
+    <string name="registro_telf">Telefono</string>
+    <string name="registro_terminos">Terminos y condiciones</string>
+    <string name="registro_save">Guardar</string>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=0F:AF:45:22:EC:13:11:FB:DD:81:1D:53:A0:F2:F1:F2:5E:EB:4D:27%3Bcom.example.syz_7.parqueoscz
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    0F:AF:45:22:EC:13:11:FB:DD:81:1D:53:A0:F2:F1:F2:5E:EB:4D:27
+
+    SHA-1 certificate fingerprint:
+    0F:AF:45:22:EC:13:11:FB:DD:81:1D:53:A0:F2:F1:F2:5E:EB:4D:27
+    
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+
+    <!--keytool -list -v -keystore C:\Sergio\Sistemas de informacion geografico\Parqueos\llave\llaveparqueo.jks mystore.keystore-->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCcbZgrBHFcuWjs6shpWquBjUNIk_cMQpI</string>
+</resources>
