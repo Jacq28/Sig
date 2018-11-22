@@ -39,7 +39,7 @@
     <string name="registro_fecha_nac">Fecha de nacimiento:</string>
     <string name="registro_sexo">Genero:</string>
     <string name="registro_email">E-mail</string>
-    <string name="registro_pass">Contraseña</string>
+    <string name="registro_pass">contrasenias</string>
     <string name="registro_dir">Direccion de vivienda</string>
     <string name="registro_telf">Telefono</string>
     <string name="registro_terminos">Terminos y condiciones</string>
