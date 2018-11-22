@@ -44,6 +44,6 @@
     <string name="registro_telf">Telefono</string>
     <string name="registro_terminos">Terminos y condiciones</string>
     <string name="registro_save">Guardar</string>
-
+    <string name="registro_sav">Guardarmucho</string>
 
 </resources>
